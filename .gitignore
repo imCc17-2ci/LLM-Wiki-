@@ -1,0 +1,31 @@
+# 当前私有知识库：只提交明确构建的公开表面
+/raw/
+/wiki/
+/outputs/
+/index.md
+/log.md
+/AGENTS.md
+/CLAUDE.md
+/.obsidian/
+/.agents/
+/.claude/
+/_work/
+/写书/
+/未命名/
+/未命名.canvas
+/_automation_memory.md
+/tools/
+/欢迎.md
+/LLM-Wiki-/
+
+# 本地环境、缓存和密钥
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.key
+*.pem
+*.token
+*.log
